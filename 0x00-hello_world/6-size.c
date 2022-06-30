@@ -1,4 +1,5 @@
-#include<stdio.h>
+#include <stdio.h>
+
 int main(void)
 {
 	char c;
@@ -7,7 +8,7 @@ int main(void)
 	long long int lld;
 	float f;
 
- /* sizeof evaluates the size of a variable */
+
  	printf("Size of char in %d", (unsigned long) sizeof(c));
 	printf("Size of int in %d", (unsigned long) sizeof(d));
 	printf("Size of long int in %d", (unsigned long) sizeof(ld));
