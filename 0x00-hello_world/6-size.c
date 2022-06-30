@@ -3,14 +3,14 @@
 int main(void)
 {
 char c;
-int d;
-long int ld;
-long long int lld;
+int i;
+long int il;
+long long int ill;
 float f;
-printf("Size of char in %d\n", (unsigned long)sizeof(c));
-printf("Size of int in %d\n", (unsigned long)sizeof(d));
-printf("Size of long int in %d\n", (unsigned long)sizeof(ld));
-printf("Size of long long int in %d\n", (unsigned long)sizeof(lld));
-printf("Size of float in %d\n", (unsigned long) sizeof(f));          
+printf("Size of a char: %d byte(s)\n", (unsigned long)sizeof(c));
+printf("Size of an int: %d byte(s)\n", (unsigned long)sizeof(i));
+printf("Size of a long int: %d byte(s)\n", (unsigned long)sizeof(il));
+printf("Size of a long long int: %d byte(s)\n", (unsigned long)sizeof(ill));
+printf("Size of a float: %d byte(s)\n", (unsigned long) sizeof(f));          
 return (0);
 }	
