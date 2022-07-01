@@ -7,11 +7,11 @@
 */
 int main(void)
 {
-	int ch;
+	int n;
 
-	for (ch = 122; ch >= 97; ch++)
+	for (ch = 122; ch >= 97; n++)
 	{
-		putchar(ch);
+		putchar(n);
 	}
 	putchar(10); /* this is an ascii code for new line */
 	return (0);
