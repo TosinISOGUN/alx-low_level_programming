@@ -21,7 +21,7 @@ if (n > 5)
 }
 if (n == 0)
 {
-	printf("and is 0\n");
+	printf("0\n");
 }
 if (n < 6 && n != 0)
 {
