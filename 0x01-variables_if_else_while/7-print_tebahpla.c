@@ -1,15 +1,15 @@
 #include <stdio.h>
 
 /**
- * * main -> a program that prints the alphabet in lowercase,
- * * followed by a new line.
- * * Return: Always 0
- * */
+* main -> Write a program that prints the lowercase alphabet in reverse,
+* followed by a new line.
+* Return: Always 0
+*/
 int main(void)
 {
 	char ch;
-	
-	for (ch = 'a'; ch >= 'a'; ch++)
+
+	for (ch = 'z'; ch >= 'a'; ch++)
 	{
 		putchar(ch);
 	}
