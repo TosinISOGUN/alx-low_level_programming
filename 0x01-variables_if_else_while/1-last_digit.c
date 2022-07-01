@@ -11,21 +11,20 @@
 int main(void)
 {
 	int n;
+	int lastDigit;
+	char *resultEnd;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	printf("Last digit of %d is ", n);
-if (n > 5)
-{
-	printf("8 and is greater than 5\n");
-}
-if (n == 0)
-{
-	printf("0\n");
-}
-if (n < 6 && n != 0)
-{
-	printf("-8 and is less than 6 and not 0\n");
-}
+	lastDigit = n % 10;
+
+	if (lastDigit == 0)
+		resultEnd = "0";
+	else if (lastDigit > 5)
+		resultEnd = "greater than 5";
+	else
+		resultEnd = "less than 6 and not 0";
+
+	printf("Last digitbof %d and is %s\n", n, lastDigit, resultEnd);
 	return (0);
 }
