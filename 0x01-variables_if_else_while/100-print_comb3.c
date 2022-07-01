@@ -10,20 +10,20 @@ int main(void)
 	int ch;
 	int n;
 
-	for (ch = 48; ch <= 57; ch++)
+	for (ch = 0; ch < 9; ch++)
 	{
-		for (n = 49; n <= 57; n++)
+		for (n = ch + 1; n < 10; n++)
 		{
-			if (n > ch)
+			putchar((ch % 10) + '0');
+			putchar((n % 10) + '0');
+
+			if (ch != 8)
 			{
-				putchar(ch);
-				putchar(n);
-				if (ch != 56 || ch != 57)
-				{
-					putchar(44);
-					putchar(32);
-				}
+				putchar(',');
+				putchar(' ');
 			}
+			else
+				continue;
 		}
 	}
 	putchar(10); /* this is an ascii code for new line */
