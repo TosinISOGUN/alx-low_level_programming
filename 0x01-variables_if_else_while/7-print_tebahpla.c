@@ -7,7 +7,7 @@
 */
 int main(void)
 {
-	char ch;
+	int ch;
 
 	for (ch = 122; ch >= 97; ch++)
 	{
