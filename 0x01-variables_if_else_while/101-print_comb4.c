@@ -11,21 +11,21 @@ int ch;
 int n;
 int m;
 
-for (ch = 48; ch <= 57; ch++)
+for (ch = 0; ch < 8; ch++)
 {
-	for (n = 49; n <= 57; n++)
+	for (n = ch + 1; n < 9; n++)
 	{
-		for (n = 50; n <= 57; n++)
+		for (m = n + 1; m < 10; m++)
 		{
-			if (n > ch && m > n)
-		}
-		putchar(ch);
-		putchar(n);
-		putchar(m);
-		if (ch != 55 || n != 56 || m != 57)
+		putchar((ch % 10) + '0');
+		putchar((n % 10) + '0');
+		putchar((m % 10) + '0');
+
+		if (ch != 7)
 		{
 			putchar(44);
 			putchar(32);
+		}
 		}
 	}
 }
