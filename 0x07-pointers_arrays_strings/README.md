@@ -19,6 +19,10 @@
 
 * File 9-set_string.c is a function that sets the value of a pointer to a char.
 
+* File 100-set_string.c contains a function that sets the value of a pointer to a char.
+
+* File 101-crackme_password contains the password for the crackme2 executable.
+
 * File main.h is the header file with the functions prototypes.
 
 * File _putchar.c is the file that contains the _putchar function.
