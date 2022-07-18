@@ -12,3 +12,5 @@ I've recently began my software engineering career at ALX, and as part of requir
 * [0x04-more_functions_nested_loops](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops)
 * [0x05-pointers_arrays_strings](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
 * [0x06-pointers_arrays_strings](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
+* [0x07. C - Even more pointers, arrays and strings
+C](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
