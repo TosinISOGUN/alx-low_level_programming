@@ -13,3 +13,5 @@ I've recently began my software engineering career at ALX, and as part of requir
 * [0x05-pointers_arrays_strings](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
 * [0x06-pointers_arrays_strings](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
 * [0x07-pointers_arrays_strings](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
+* [0x08-recursion](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x08-recursion)
+* [0x09-static_libraries](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x09-static_libraries)
