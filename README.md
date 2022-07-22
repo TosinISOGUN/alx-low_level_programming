@@ -1,5 +1,5 @@
 # ALX LOW LEVEL PROGRAMMING
-![alx logo](https://lh3.googleusercontent.com/OJixx9SV1VyWItiNb1MmD5M1DNYjxPlHRAN-fVmvhRQqWZv1sdhi6tz0R_kH1-3JtUx7HZSLMvQEYqP2zLeUalCXRcnp2ad3yMw=s0)
+![alx logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Flh3.googleusercontent.com%2Ffy10JIdBRggZ6h4nwNTbXvDaaWptLedf2yY8bDLCvq5rSckYrck0J1V6WszkU77mt0JuvRECqTWsAPKRTEYQpM9DGjA9tWMjoYVe%3Dw596&imgrefurl=https%3A%2F%2Fwww.alxafrica.com%2Fsoftware-engineering-2022%2F&tbnid=mwhZAC47yIIlsM&vet=12ahUKEwiWm9Hruoz5AhUTXsAKHdDdD48QMygEegUIARDCAQ..i&docid=pfZ1g0rZy1xQ8M&w=596&h=144&q=alx%20software%20engineering&ved=2ahUKEwiWm9Hruoz5AhUTXsAKHdDdD48QMygEegUIARDCAQ)
 
 ## Getting started with low-level programminging in C Language.
 ![cIsFun picture](https://camo.githubusercontent.com/3d51da6302e9f14aa387547687650884c29991e1e33eadaede096cfcba67491f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f696e7472616e65742d70726f6a656374732d66696c65732f686f6c626572746f6e7363686f6f6c2d6c6f775f6c6576656c5f70726f6772616d6d696e672f3231322f63697366756e2e6a7067)
