@@ -14,4 +14,6 @@
 
 * File 100-change.c is a program that prints the minimum number of coins to make change for an amount of money.
 
+* File _putchar.c contains the putchar function used for this project.
+
 * File main.h is the header file containing all the function prototypes used in the files.
