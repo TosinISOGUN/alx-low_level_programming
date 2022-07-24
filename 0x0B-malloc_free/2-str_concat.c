@@ -11,9 +11,6 @@ int _strlen(const char *s);
  * @s2: pointer to second string
  *
  * Return: pointer to the concatenated string
- *
- * Created by: Sanctus-Peter
- * cc: 23rd July, 2022
  */
 
 char *str_concat(char *s1, char *s2)
