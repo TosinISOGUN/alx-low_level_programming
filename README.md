@@ -9,9 +9,24 @@ A low-level programming language is a programming language that provides little 
 
 ## About
 
-I've recently began my software engineering career at ALX, and as part of requirement we were asked to learn C programming language, over the next few months I would be applying the knowledge learnt to solving basic tasks in C language.
+I've recently began my software engineering career at ALX, and as part of the requirements, we were prompted to learn C programming language, over the next few months I would be applying the knowledge learnt to solving basic tasks in C language.
+Some of the tracks where this knowledge will be applied covers the following;
 
-## Contents
+* Compilation
+* Commenting code and following a coding style standard (Betty style)
+* Variables, types, operators, expressions, loops, nested loops
+* Conditional statements
+* Functions
+* Pre-processor, macros, header files, pointers, double pointers, function pointers, pointer arithmetic
+* Makefiles
+* Sorting and search algorithms and more!
+
+## Requirements
+* Ubuntu 20.04 LTS
+* gcc 4.8.4 (-Wall -Werror -Wextra -pedantic -std=gnu89)
+* Coding style - Betty Style
+
+## Projects
 * [C - Hello, World](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x00-hello_world)
 * [C - Variables, if, else, while](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
 * [C - Functions, nested_loops](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x02-functions_nested_loops)
@@ -24,3 +39,6 @@ I've recently began my software engineering career at ALX, and as part of requir
 * [C - Static Libraries](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x09-static_libraries)
 * [C - argc, argv](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x0A-argc_argv)
 * [C - Malloc, Free](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x0B-malloc_free)
+
+## Credits
+Collaborators are acknowledged within each project.
