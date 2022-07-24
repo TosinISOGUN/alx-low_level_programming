@@ -8,9 +8,6 @@
  * @row: row of the array
  *
  * Return: pointer to the 2-D array
- *
- * Created by: Sanctus-Peter
- * cc: 23rd July, 2022
  */
 
 int **alloc_grid(int col, int row)
