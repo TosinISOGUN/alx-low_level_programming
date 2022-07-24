@@ -5,9 +5,9 @@
 ![cIsFun picture](https://camo.githubusercontent.com/3d51da6302e9f14aa387547687650884c29991e1e33eadaede096cfcba67491f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f696e7472616e65742d70726f6a656374732d66696c65732f686f6c626572746f6e7363686f6f6c2d6c6f775f6c6576656c5f70726f6772616d6d696e672f3231322f63697366756e2e6a7067)
 
 ## Description
-A low-level programming language is a programming language that provides little or no ** abstraction ** from a computer's instruction set architecture—commands or functions in the language map closely to processor instructions.
+A low-level programming language is a programming language that provides little or no **abstraction** from a computer's instruction set architecture—commands or functions in the language map closely to processor instructions.
 
-Generally this refers to either machine code or assembly language. The word ** "low" ** refers to the small or nonexistent amount of abstraction between the language and machine language; because of this, low-level languages are sometimes described as being * "close to the hardware". * Programs written in low-level languages tend to be relatively non-portable.
+Generally this refers to either machine code or assembly language. The word **"low"** refers to the small or nonexistent amount of abstraction between the language and machine language; because of this, low-level languages are sometimes described as being *"close to the hardware".* Programs written in low-level languages tend to be relatively non-portable.
 
 ## About
 
