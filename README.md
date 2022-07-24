@@ -26,7 +26,8 @@ Some of the tracks where this knowledge will be applied covers the following;
 ## Requirements
 - Ubuntu 20.04 LTS
 - gcc 4.8.4 (-Wall -Werror -Wextra -pedantic -std=gnu89)
-- Coding style - Betty Style
+- Coding style;
+  - Betty Style
 
 ## Projects
 - [C - Hello, World](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x00-hello_world)
