@@ -7,6 +7,8 @@
 ## Description
 A low-level programming language is a programming language that provides little or no abstraction from a computer's instruction set architecture—commands or functions in the language map closely to processor instructions. Generally this refers to either machine code or assembly language. The word "low" refers to the small or nonexistent amount of abstraction between the language and machine language; because of this, low-level languages are sometimes described as being "close to the hardware". Programs written in low-level languages tend to be relatively non-portable.
 
+## About
+
 I've recently began my software engineering career at ALX, and as part of requirement we were asked to learn C programming language, over the next few months I would be applying the knowledge learnt to solving basic tasks in C language.
 
 ## Contents
