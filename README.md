@@ -42,6 +42,9 @@ Some of the tracks where this knowledge will be applied covers the following;
 - [C - Static Libraries](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x09-static_libraries)
 - [C - argc, argv](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x0A-argc_argv)
 - [C - Malloc, Free](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x0B-malloc_free)
+- [C - More malloc, Free](github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x0C-more_malloc_free)
+- [C - Preprocessor](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x0D-preprocessor)
+
 
 ## Credits
 Collaborators are acknowledged within each project.
