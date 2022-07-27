@@ -15,3 +15,5 @@
 * File 101-mul.c is a program that multiplies two positive numbers.
 
 * File main.h is the header file for all the function prototypes.
+
+* File *_putchar.c* contains the putchar function used for this project.
