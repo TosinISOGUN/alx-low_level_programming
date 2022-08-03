@@ -10,4 +10,6 @@
 
 - File 3-print_all.c is a function that prints anything.
 
+- File *_putchar.c* contains the putchar function.
+
 - File variadic_functions.h is the header file that contains all the function prototypes.
