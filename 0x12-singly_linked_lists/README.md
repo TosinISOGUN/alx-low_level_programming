@@ -1,5 +1,5 @@
 # C - Singly linked lists
-<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/229/giphy-3.gif" width="325" height="300" />
+<p align="center"> <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/229/giphy-3.gif" /> </p>
 
 ## Description
 A `linked list` is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers.
