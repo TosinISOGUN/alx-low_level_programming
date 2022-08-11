@@ -58,5 +58,4 @@ Some of the tracks where this knowledge will be applied covers the following;
 
 ## Credits
 - OlaoluwaISOGUN
-
 > Other collaborators are acknowledged within each project.
