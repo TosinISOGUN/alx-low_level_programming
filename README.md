@@ -2,7 +2,7 @@
 ![alx logo](https://lh3.googleusercontent.com/fy10JIdBRggZ6h4nwNTbXvDaaWptLedf2yY8bDLCvq5rSckYrck0J1V6WszkU77mt0JuvRECqTWsAPKRTEYQpM9DGjA9tWMjoYVe=w275)
 
 ## Getting started with low-level programminging in C Language.
-![cIsFun picture](https://camo.githubusercontent.com/3d51da6302e9f14aa387547687650884c29991e1e33eadaede096cfcba67491f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f696e7472616e65742d70726f6a656374732d66696c65732f686f6c626572746f6e7363686f6f6c2d6c6f775f6c6576656c5f70726f6772616d6d696e672f3231322f63697366756e2e6a7067)
+<img src="https://camo.githubusercontent.com/3d51da6302e9f14aa387547687650884c29991e1e33eadaede096cfcba67491f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f696e7472616e65742d70726f6a656374732d66696c65732f686f6c626572746f6e7363686f6f6c2d6c6f775f6c6576656c5f70726f6772616d6d696e672f3231322f63697366756e2e6a7067" width="650" height="300" />
 
 ## Table of Contents
 - [Description](https://github.com/TosinISOGUN/alx-low_level_programming#description)
