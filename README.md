@@ -31,10 +31,14 @@ Some of the tracks where this knowledge will be applied covers the following;
 - Sorting and search algorithms and more!
 
 ## Requirements
-- Ubuntu 20.04 LTS
-- gcc 4.8.4 (-Wall -Werror -Wextra -pedantic -std=gnu89)
+<img src="https://alx-apply.hbtn.io/brand_alx/share_image_2019.jpg" width="300" height="100" />
+
+- Allowed editors: `vi`, `vim`, `emacs`
+- Compiler;
+  - Ubuntu 20.04 LTS using gcc.
+  - Using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
 - Coding style;
-  - Betty Style
+  - Betty Style.
 
 ## Projects
 - [C - Hello, World](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x00-hello_world)
