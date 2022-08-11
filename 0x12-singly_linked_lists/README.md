@@ -7,7 +7,7 @@ A `linked list` is a linear data structure, in which the elements are not stored
 
 `Singly Linked List` therefore is the simplest type of linked list in which every node contains some data and a pointer to the next node of the same data type. The node contains a pointer to the next node means that the node stores the address of the next node in the sequence. A single linked list allows the traversal of data only in one way. Below is the image for the same;
 
-<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200922124319/Singly-Linked-List1.png" width="700" height="300"/>
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200922124319/Singly-Linked-List1.png" width="800" height="300"/>
 
 ## Contents
 
