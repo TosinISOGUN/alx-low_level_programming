@@ -28,6 +28,8 @@ A `linked list` is a linear data structure, in which the elements are not stored
 - File lists.h is the header file containing the definition of the list_t struct and all the prototypes of the above functions.
 
 ## Requirements
+<img src="https://alx-apply.hbtn.io/brand_alx/share_image_2019.jpg" width="300" height="100" />
+
 - Allowed editors: `vi`, `vim`, `emacs`
 - Compiler;
   - Ubuntu 20.04 LTS using gcc.
