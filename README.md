@@ -58,6 +58,7 @@ Some of the tracks where this knowledge will be applied covers the following;
 - [C - Function pointers](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x0F-function_pointers)
 - [C - Variadic functions](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x10-variadic_functions)
 - [C - Singly linked lists](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x12-singly_linked_lists)
+- [C - Bit manipulation](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x14-bit_manipulation)
 
 
 ## Credits
