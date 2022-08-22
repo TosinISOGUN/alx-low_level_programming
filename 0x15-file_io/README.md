@@ -35,7 +35,7 @@ The following lists typical operations on file descriptors on modern [Unix-like]
 - pidfd_open() (Linux)
 - open_by_handle_at() (Linux)
 
-## Contents
+## Contents/Files
 - File [0-read_textfile.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x15-file_io/0-read_textfile.c) is a function that reads a text file and prints it to the POSIX standard output.
 
 - File [1-create_file.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x15-file_io/1-create_file.c) is a function that creates a file.
