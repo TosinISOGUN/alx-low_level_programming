@@ -60,6 +60,7 @@ Some of the tracks where this knowledge will be applied covers the following;
 - [C - Singly linked lists](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x12-singly_linked_lists)
 - [C - More singly linked lists](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists)
 - [C - Bit manipulation](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x14-bit_manipulation)
+- [C - File I/O](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x15-file_io)
 
 
 ## Credits
