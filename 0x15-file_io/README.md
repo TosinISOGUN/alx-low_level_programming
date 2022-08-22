@@ -40,7 +40,7 @@ The following lists typical operations on file descriptors on modern [Unix-like]
 
 - File [1-create_file.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x15-file_io/1-create_file.c) is a function that creates a file.
 
-- File [100-elf_header.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x15-file_io/100-elf_header.c) is a program that duisplays the information contained in the `ELF` header at the start of an `ELF` file.
+- File [100-elf_header.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x15-file_io/100-elf_header.c) is a program that displays the information contained in the `ELF` header at the start of an `ELF` file.
 
 - File [2-append_text_to_file.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x15-file_io/2-append_text_to_file.c) is a function that appends text at the end of a file.
 
