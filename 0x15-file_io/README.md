@@ -10,7 +10,30 @@ File descriptors are a part of the POSIX API. Each Unix process (except perhaps 
 | Integer Value | Name |<[unistd.h](https://en.wikipedia.org/wiki/Unistd.h)> symbolic constant | <[stdio.h](https://en.wikipedia.org/wiki/Stdio.h)> file stream |
 | --- | --- | --- | --- |
 | 0 | [Standard input](https://en.wikipedia.org/wiki/Stdin) | STDIN_FILENO | stdin |
+| 1 | [Standard output](https://en.wikipedia.org/wiki/Stdout) | STDOUT_FILENO | stdout |
+| 2 | [Standard error](https://en.wikipedia.org/wiki/Stderr) | STDERR_FILENO | stderr |
 
+## Operations on File Descriptors
+The following lists typical operations on file descriptors on modern [Unix-like](https://en.wikipedia.org/wiki/Unix-like) systems. Most of these functions are declared in the `<unistd.h>` header, but some are in the `<fcntl.h>` header instead.
+
+## Creating File Descriptors
+- open()
+- creat()
+- socket()
+- accept()
+- socketpair()
+- pipe()
+- epoll_create() (Linux)
+- signalfd() (Linux)
+- eventfd() (Linux)
+- timerfd_create() (Linux)
+- memfd_create() (Linux)
+- userfaultfd() (Linux)
+- fanotify_init() (Linux)
+- inotify_init() (Linux)
+- clone() (with flag CLONE_PIDFD, Linux)
+- pidfd_open() (Linux)
+- open_by_handle_at() (Linux)
 
 ## Contents
 File 0-read_textfile.c is a function that reads a text file and prints it to the POSIX standard output.
