@@ -57,6 +57,29 @@ The following lists typical operations on file descriptors on modern [Unix-like]
   - Using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
 - Coding style;
   - Betty Style.
+- All files should end with a new line.
+- No more than 5 functions per file.
+- The use of global variables is not allowed.
+> The only C standard library functions allowed are `malloc`, `free` and `exit`.
+> Any use of functions like `printf`, `puts`, `calloc`, `realloc` etc… is forbidden.
+- Allowed to use [*_putchar*](https://github.com/holbertonschool/_putchar.c/blob/master/_putchar.c) function.
+```C
+#include <unistd.h>
+
+/**
+ * _putchar - writes the character c to stdout
+ * @c: The character to print
+ *
+ * Return: On success 1.
+ * On error, -1 is returned, and errno is set appropriately.
+ */
+int _putchar(char c)
+{
+	return (write(1, &c, 1));
+}
+```
+- Allowed syscalls: `read`, `write`, `open`, `close`.
+
 
 ## Credits
 Collaborators are acknowledged within the repository.
