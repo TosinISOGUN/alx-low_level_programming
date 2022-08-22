@@ -36,17 +36,19 @@ The following lists typical operations on file descriptors on modern [Unix-like]
 - open_by_handle_at() (Linux)
 
 ## Contents
-File 0-read_textfile.c is a function that reads a text file and prints it to the POSIX standard output.
+- File [0-read_textfile.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x15-file_io/0-read_textfile.c) is a function that reads a text file and prints it to the POSIX standard output.
 
-File 1-create_file.c is a function that creates a file.
+- File [1-create_file.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x15-file_io/1-create_file.c) is a function that creates a file.
 
-File 2-append_text_to_file.c is a function that appends text at the end of a file.
+- File [100-elf_header.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x15-file_io/100-elf_header.c) is a program that duisplays the information contained in the `ELF` header at the start of an `ELF` file.
 
-File 3-cp.c is a program that copies the content of a file to another file.
+- File [2-append_text_to_file.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x15-file_io/2-append_text_to_file.c) is a function that appends text at the end of a file.
 
-File main.h is the header file that contains all these function prototypes.
+- File [3-cp.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x15-file_io/3-cp.c) is a program that copies the content of a file to another file.
 
-## Requirements
+- File [main.h](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x15-file_io/main.h) is the header file that contains all these function prototypes.
+
+## Requirements & Environments
 <img src="https://alx-apply.hbtn.io/brand_alx/share_image_2019.jpg" width="300" height="100" />
 
 - Allowed editors: `vi`, `vim`, `emacs`
