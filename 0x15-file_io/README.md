@@ -57,6 +57,7 @@ The following lists typical operations on file descriptors on modern [Unix-like]
   - Using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
 - Coding style;
   - Betty Style.
+- A `README.md` file, at the root of the folder of the project is mandatory.
 - All files should end with a new line.
 - No more than 5 functions per file.
 - The use of global variables is not allowed.
