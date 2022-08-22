@@ -1,4 +1,5 @@
 # C - File I/O
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/File_table_and_inode_table.svg/800px-File_table_and_inode_table.svg.png" width="" height=""  />
 
 ## Description
 In [Unix](https://en.wikipedia.org/wiki/Unix) and [Unix-like](https://en.wikipedia.org/wiki/Unix-like) computer operating systems, a **file descriptor (FD**, less frequently **fildes**) is a unique identifier ([handle](https://en.wikipedia.org/wiki/Handle_(computing)) for a file or other [input/output resource](https://en.wikipedia.org/wiki/Input/output), such as a [pipe](https://en.wikipedia.org/wiki/Pipe_(Unix)) or [network socket](https://en.wikipedia.org/wiki/Network_socket).
