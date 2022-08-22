@@ -83,4 +83,4 @@ int _putchar(char c)
 
 
 ## Credits
-Collaborators are acknowledged within the repository.
+> Collaborators are acknowledged within the repository.
