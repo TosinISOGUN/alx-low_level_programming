@@ -64,5 +64,6 @@ Some of the tracks where this knowledge will be applied covers the following;
 
 
 ## Credits
-- [OlaoluwaISOGUN](https://github.com/OlaoluwaISOGUN) (Olaoluwa Isogun)
+- [Oluwatomisin ISOGUN](https://github.com/TosinISOGUN)
+- [Olaoluwa ISOGUN](https://github.com/OlaoluwaISOGUN)
 > Other collaborators are acknowledged within each project.
