@@ -1,4 +1,7 @@
 # C  - Doubly linked lists
+<p align="center">
+<img src="https://sebhastian.com/doubly-linked-list-javascript/doubly-linked-list-example.png" width="700" height="350" />
+</p>
 
 ## Table of Contents
 | `Files` | `Description` |
