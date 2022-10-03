@@ -62,6 +62,7 @@ Some of the tracks where this knowledge will be applied covers the following;
 - [C - Bit manipulation](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x14-bit_manipulation)
 - [C - File I/O](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x15-file_io)
 - [C - Doubly linked list](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x17-doubly_linked_lists)
+- [C - Dynamic libraries](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x18-dynamic_libraries)
 
 
 ## Credits
