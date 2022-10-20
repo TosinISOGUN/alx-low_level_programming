@@ -1,4 +1,6 @@
 # C - Hash tables
+## Description
+This ALX School project is about hash tables in C. How to create and use one, how to deal with collisions. It also covers what makes a good hash function and what are the most common use for hash tables.
 
 ## Table of Contents
 | Files | Description |
