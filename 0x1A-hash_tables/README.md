@@ -3,7 +3,15 @@
 ## Table of Contents
 | Files | Description |
 | --- | --- |
-| 
+| [hash_tables.h](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x1A-hash_tables/hash_tables.h)	| Header file containing the function prototypes and structs for this project. |
+| [0-hash_table_create.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x1A-hash_tables/0-hash_table_create.c)	| C function that creates a hash table. |
+| [1-djb2.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x1A-hash_tables/1-djb2.c)	| C hash function implementing the djb2 algorithm. |
+| [2-key_index.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x1A-hash_tables/2-key_index.c)	| C function that gives you the index of a key. |
+| [3-hash_table_set.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x1A-hash_tables/3-hash_table_set.c)	| C function that adds an element to the hash table. |
+| [4-hash_table_get.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x1A-hash_tables/4-hash_table_get.c)	| C function that retrieves a value associated with a key. |
+| [5-hash_table_print.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x1A-hash_tables/5-hash_table_print.c)	| C function that prints a hash table. |
+| [6-hash_table_delete.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x1A-hash_tables/6-hash_table_delete.c)	| C function that deletes a hash table
+| [100-sorted_hash_table.c](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x1A-hash_tables/100-sorted_hash_table.c)	| C functions for a sorted hash table. |
 
 
 ## Requirements
@@ -16,8 +24,7 @@
 - Coding style;
   - Betty Style.
 - The use of global variables is not allowed.
-> The only C standard library functions allowed are `malloc`, `free` and `exit`.
-> Any use of functions like `printf`, `puts`, `calloc`, `realloc` etc… is forbidden.
+- The prototypes of all functions should be included in a header file called [hash_tables.h](https://github.com/TosinISOGUN/alx-low_level_programming/blob/master/0x1A-hash_tables/hash_tables.h)
 
 Here is an example of the data structure used for this project;
 ```C
