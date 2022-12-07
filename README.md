@@ -64,7 +64,7 @@ Some of the tracks where this knowledge will be applied covers the following;
 - [C - Doubly linked list](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x17-doubly_linked_lists)
 - [C - Dynamic libraries](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x18-dynamic_libraries)
 - [C - Hash Tables](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x1A-hash_tables)
-[C - Makefiles](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x1C-makefiles)
+- [C - Makefiles](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x1C-makefiles)
 
 
 ## Credits
